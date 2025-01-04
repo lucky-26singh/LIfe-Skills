@@ -39,8 +39,8 @@ SQL (Structured Query Language) is a standard programming language used for mana
   5. *Transaction Control Language (TCL)*
 
 **Data Constraints :**
-
-    Ensure data integrity with constraints like PRIMARY KEY, FOREIGN KEY, UNIQUE, NOT NULL, and CHECK.
+   Ensure data integrity with constraints like PRIMARY KEY,FOREIGN KEY, UNIQUE, NOT NULL, and CHECK.
+  
 
  **Joins :**
 
