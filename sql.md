@@ -43,19 +43,13 @@ SQL (Structured Query Language) is a standard programming language used for mana
   
 
  **Joins :**
+ Combine data from multiple tables based on related columns.
+   
+**Aggregate Functions :**
 
-    Combine data from multiple tables based on related columns.
-    Examples:
+  Perform calculations on data, like sums or averages.
 
-    SELECT orders.id, customers.name 
-    FROM orders 
-    INNER JOIN customers ON orders.customer_id = customers.id;
-
- **Aggregate Functions :**
-
-    Perform calculations on data, like sums or averages.
-    
-  ### Advantages of SQL:
+ ### Advantages of SQL:
 
   1.  **Ease of Use:** Simple syntax for managing complex queries.
 
